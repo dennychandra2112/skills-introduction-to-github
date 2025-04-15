@@ -1,1 +1,42 @@
 My first cybersecurity note
+Author: Denny Chandra
+Date Started: April 2025
+
+## Linux Commands
+- Is: list files in directory
+- cd: change directory
+- pwd: print working directory
+- chmod: change file permissions
+- nano: simple file editor
+- ifconfig or ip a: show network interfaces
+
+## Networking Basics
+- IP address: Unique identifier for a device
+- DNS: Converts domain names to IPs
+- TCP vs UDP: Reliable vs Fast protocols
+- Ports: Common ones: 80 (HTTP), 443 (HTTPS), 22 (SSH)
+- ping, traceroute, netstat, nmap
+
+## Useful Tools (Kali Linux)
+- nmap: Network scanner
+ - Example: nmap -sV 192.168.1.1
+- whois: Find domain info
+- netstat: Show open ports
+- curl: interact with web servers
+- burpsuite: Web app pentesting
+
+## Git Commands
+- git clone [url]: Clone a repo
+- git add .: Add changes
+- git commit -m "message": Commit changes
+- git push: Upload to GitHub
+- git pull: Update local with changes from GitHub
+
+## TryHackMe Progress
+- [] Intro to Cybersecurity
+- [] Pre Security Path
+- [] Linux Fundamentals
+
+## Notes to Remember
+- Always run tools in safe, legal environments (e.g., TryHackMe or local VMs)
+- Keep practicing with CTFs and reading tool documentation
